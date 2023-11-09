@@ -12,3 +12,5 @@ Sur cette page, nous pouvons rechercher des produits spécifiques ou choisir leu
 -La boutique en ligne du vendeur a les mêmes fonctionnalités que l'interface principale.
 
 -L'interface des employés contient les commandes à confirmer, et ils ont également le pouvoir de visualiser les produits dont ils sont responsables.
+
+fin
