@@ -1,0 +1,14 @@
+Cette application s'adresse aux e- commerçants qui souhaitent vendre leurs produits, car ils peuvent ajouter leurs propres produits et les afficher uniquement dans leur propre e-boutique. 
+
+Ce commerçant commercialise la page de commande de son produit, et à partir de là l'acheteur effectue l'achat s'il le souhaite en saisissant ses propres informations (nom - adresse - numéro de téléphone - ville), et cet acheteur peut créer son propre compte ultérieurement (email - mot de passe).
+
+Après le processus d'achat, ces informations apparaissent sur la page destinée aux employés de ce commerçant (nom - numéro de téléphone - adresse - - identifiant - mot de passe). 
+Ce dernier peut ajouter ses propres employés, chacun responsable de produits spécifiques. 
+L'employé confirme la commande après avoir contacté l'acheteur, puis vérifie les informations, les modifie si elles sont incorrectes et confirme ou annule la commande.
+
+-L'interface principale de l'application contient les produits de toutes les boutiques en ligne les plus vendus ou les plus populaires auprès des acheteurs. 
+Sur cette page, nous pouvons rechercher des produits spécifiques ou choisir leur catégorie et la fonctionnalité du panier qui contient les produits que l'acheteur souhaite acheter, et qui contient également l'icône du compte personnel de l'acheteur.
+
+-La boutique en ligne du vendeur a les mêmes fonctionnalités que l'interface principale.
+
+-L'interface des employés contient les commandes à confirmer, et ils ont également le pouvoir de visualiser les produits dont ils sont responsables.
